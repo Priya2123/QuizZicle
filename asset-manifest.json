@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuizZicle/static/css/main.df86dd63.chunk.css",
+    "main.js": "/QuizZicle/static/js/main.d00f627d.chunk.js",
+    "main.js.map": "/QuizZicle/static/js/main.d00f627d.chunk.js.map",
+    "runtime-main.js": "/QuizZicle/static/js/runtime-main.e5a2cb2a.js",
+    "runtime-main.js.map": "/QuizZicle/static/js/runtime-main.e5a2cb2a.js.map",
+    "static/js/2.91b5779a.chunk.js": "/QuizZicle/static/js/2.91b5779a.chunk.js",
+    "static/js/2.91b5779a.chunk.js.map": "/QuizZicle/static/js/2.91b5779a.chunk.js.map",
+    "index.html": "/QuizZicle/index.html",
+    "precache-manifest.95180d720cfa183e431bc584a2f85200.js": "/QuizZicle/precache-manifest.95180d720cfa183e431bc584a2f85200.js",
+    "service-worker.js": "/QuizZicle/service-worker.js",
+    "static/css/main.df86dd63.chunk.css.map": "/QuizZicle/static/css/main.df86dd63.chunk.css.map",
+    "static/js/2.91b5779a.chunk.js.LICENSE.txt": "/QuizZicle/static/js/2.91b5779a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5a2cb2a.js",
+    "static/js/2.91b5779a.chunk.js",
+    "static/css/main.df86dd63.chunk.css",
+    "static/js/main.d00f627d.chunk.js"
+  ]
+}
